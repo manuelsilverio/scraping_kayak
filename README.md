@@ -20,4 +20,10 @@ beautifulsoup4==4.9.3
 pandas==1.1.3
 selenium==3.141.0
 
+### Screen capture
+
+* When running the script, Chrome will open and will look like this:
+
+![screen_capture](https://github.com/manuelsilverio/scraping_kayak/blob/main/Capture_kayak.PNG)
+
 
